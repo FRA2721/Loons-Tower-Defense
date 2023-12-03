@@ -63,7 +63,6 @@ function drawMissiles() {
       enemies.splice(enemies.indexOf(missiles[i].enemy), 1);
       missiles.splice(i, 1);
       i--;
-      destroyedEnemies++;
       score += 10;
       updateScoreTable();
     }
