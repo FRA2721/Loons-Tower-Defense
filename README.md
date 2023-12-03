@@ -18,26 +18,29 @@ proj: **“Loons Tower Defence”**;
 
 
 ##Game Aim:
-  Implementation of a **single player** tower defense game.
-  The player can **place** turrets on the **map** to pop loons.
-  Click **wherever** you want in order to **put** your Turret.
+Implementation of a **single player** tower defense game.
+The player can **place** turrets on the **map** to pop loons.
+Click **wherever** you want in order to **put** your Turret.
 
 
 
 #- - - Code Structure - - -
 ##Step 1 - FrontEnd:
-  Implementation of a **user interface** for the game;
-  The player can **drop** turrets to a location on the canvas;
-  The player can see the **location** and **trajectory** of the loons;
-  The Turrets can be **pop** the nearest loon (1 Hz);
-  The loon will **expire** and **disappear** when they reach the end of the map;
+Implementation of a **user interface** for the game;
+The player can **drop** turrets to a location on the canvas;
+The player can see the **location** and **trajectory** of the loons;
+The Turrets can be **pop** the nearest loon (1 Hz);
+The loon will **expire** and **disappear** when they reach the end of the map;
 
 
 
 ##Step 2 - Presentation:
-  **Discussion** about the project;
+**Discussion** about the project;
 
 
 
 ###**Francesco Cimino**
+<<<<<<< HEAD
 **Thank you for your time and your consideration. See you soon!**
+=======
+>>>>>>> d00859421f22796267e54ade1055fadba601ee9c
