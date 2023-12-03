@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <!-- title -->
+  <!-- set tile -->
   <title>Loons Tower Defense | Francesco Cimino</title>
 
   <!-- css link -->
@@ -12,9 +12,26 @@
 
 </head>
 <body>
-  
 
-  <script src="js/script.js"></script>
+  <!-- canvas gama play-board -->
+  <canvas id="gameCanvas" width="800" height="600"></canvas>
+  <!-- /canvas play-board -->
+  
+  <!-- score -->
+  <table>
+    <thead>
+      <tr>
+        <th>Turrets Damaged</th>
+        <th>Score</th>
+      </tr>
+    </thead>
+    <tbody id="scoreTableBody">
+    </tbody>
+  </table>
+  <!-- /score -->
+
+  <!-- js link -->
+  <script src="js/main.js"></script>
 
 </body>
 </html>
