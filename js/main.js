@@ -96,9 +96,6 @@ function drawEnemies() {
   }
   // Show "Game Over" if game has ended
   if (gameEnded) {
-    ctx.fillStyle = 'red';
-    ctx.font = '40px Arial';
-    ctx.fillText('Game Over - You Lost!', canvas.width / 2 - 150, canvas.height / 2);
     restartButton.style.display = 'block'; // Display the restart button
   }
 }
@@ -228,8 +225,8 @@ const startButton = document.createElement('button');
 startButton.innerText = 'Start Game';
 startButton.style.position = 'absolute';
 startButton.style.top = '50%';
-startButton.style.left = '50%';
-startButton.style.transform = 'translate(-50%, -50%)';
+startButton.style.left = '35%';
+startButton.style.transform = 'translate(-50%, -35%)';
 document.body.appendChild(startButton);
 
 // Restart button functionality
@@ -237,8 +234,8 @@ const restartButton = document.createElement('button');
 restartButton.innerText = 'Restart Game';
 restartButton.style.position = 'absolute';
 restartButton.style.top = '50%';
-restartButton.style.left = '50%';
-restartButton.style.transform = 'translate(-50%, -50%)';
+restartButton.style.left = '35%';
+restartButton.style.transform = 'translate(-50%, -35%)';
 restartButton.style.display = 'none'; // Initially hide restart button
 document.body.appendChild(restartButton);
 

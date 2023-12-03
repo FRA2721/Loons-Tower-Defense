@@ -34,12 +34,7 @@ proj: “Loons Tower Defence”;
 
 
 
-##Step 2 - BackEnd:
-  Implementation of the backend server for the game;
-
-
-
-##Step 3 - Presentation:
+##Step 2 - Presentation:
   Discussion about the project;
 
 
