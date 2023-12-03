@@ -10,7 +10,7 @@ proj: **“Loons Tower Defence”**;
 
 #- - - How to Install it - - -
 
-1 - **Clone** the repository from my "GitHub public repository": https://github.com/FRA2721/Loons-Tower-Defense.
+1 - [**Clone** the repository from my "GitHub public repository"](https://github.com/FRA2721/Loons-Tower-Defense)
 2 - Open **"index.html"** into your browser.
 3 - **Click** the **"Start"** button to enjoy the game.
 4 - If you lose, **click** the **"Restart"** button.
