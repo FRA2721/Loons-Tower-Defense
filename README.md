@@ -40,3 +40,4 @@ proj: **“Loons Tower Defence”**;
 
 
 ###**Francesco Cimino**
+**Thank you for your time and your consideration. See you soon!**
